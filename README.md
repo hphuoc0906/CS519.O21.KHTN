@@ -9,7 +9,7 @@
 
 - Giảng viên: PGS.TS. Lê Đình Duy
 
-- Link Video Youtube: https://www.youtube.com/watch?v=P3VbSPkAyyg
+- Link Video Youtube tại [đây](https://www.youtube.com/watch?v=P3VbSPkAyyg).
 
 Sinh viên thực hiện:
 
