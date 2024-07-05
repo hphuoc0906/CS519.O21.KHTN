@@ -1,7 +1,7 @@
 # CS519.O21.KHTN
 ## BỘ DỮ LIỆU ĐA THỂ THỨC TIẾNG VIỆT VỀ HIỂU BIẾT VÀ LUẬN LÝ KHOA HỌC TỰ NHIÊN (VMNSU)
 
-- Đồ án cuối kỳ CS519
+- Đồ án cuối kỳ CS519 - Trường Đại học Công nghệ thông tin, ĐHQG Việt Nam
 
 - Môn học: Phương pháp luận nghiên cứu khoa học - CS519
 
